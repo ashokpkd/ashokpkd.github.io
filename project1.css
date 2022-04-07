@@ -1,0 +1,80 @@
+.navbar{
+    height: 100px;
+    background-color: rgb(10, 58, 160);
+    font-size:x-large;
+    font-family: cursive;
+}
+.i1{
+    height: 80px;
+}
+
+.d-block{
+  height: 500px;
+}
+.d1{
+    height: 20px;
+    background-color: rgb(119, 182, 230);
+}
+button{
+    color: blue;
+    background-color: transparent;
+    border-color: transparent;
+}
+#b1{font-family: cursive;
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    border: solid 2px blue ;
+    border-radius: 20px;
+}
+.d3{
+    height: 100px;
+    background-color:rgb(119, 182, 230) ;
+}
+h2{padding-top: 30px;
+    text-align: center;
+   color:rgb(6, 6, 48);
+  font-family: cursive;
+}
+.row{
+    background-color:rgb(119, 182, 230);
+  
+}
+.card-body{
+    background-color: blue;
+   
+}
+.d4{
+    height: 100px;
+    background-color:rgb(119, 182, 230) ;
+}
+.i2{
+    height:285px;
+}
+h5{
+    font-family: cursive;
+}
+.d5{
+    height: 100px;
+    background-color:rgb(119, 182, 230) ;
+}
+body{
+    background-color:rgb(119, 182, 230) ;
+}
+p{
+    font-family: cursive;
+}
+.d6{
+   height: 150px;
+   background-color: rgb(46, 82, 160);
+}
+.d8{background-color: rgb(46, 82, 160);
+    height: 150px;
+    width: 240px;
+   margin-top: -143px;
+    margin-left: 1000px;
+}
+h1{ 
+    font-family: cursive;
+    color: rgb(180, 153, 83);
+}
